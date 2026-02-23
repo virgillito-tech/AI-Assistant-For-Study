@@ -12,3 +12,8 @@ chroma_db/
 # Ignora le cartelle di cache di Python e Streamlit
 __pycache__/
 .streamlit/
+
+bin/
+lib/
+include/
+pyvenv.cfg
