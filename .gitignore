@@ -1,0 +1,14 @@
+# Ignora l'ambiente virtuale di Python
+venv/
+env/
+
+# Ignora i file PDF (sia quelli caricati che quelli generati)
+*.pdf
+
+# Ignora il database vettoriale locale
+db_*/
+chroma_db/
+
+# Ignora le cartelle di cache di Python e Streamlit
+__pycache__/
+.streamlit/
