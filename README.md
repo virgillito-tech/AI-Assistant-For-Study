@@ -1,5 +1,5 @@
 # AI Assistant For Study
-# (RAG + Ollama)
+### (RAG + Ollama)
 
 Un'applicazione web costruita con **Python** e **Streamlit** che permette di analizzare, interrogare e riassumere documenti PDF di grandi dimensioni (come manuali universitari) in modo **completamente locale e gratuito**.
 
